@@ -1,0 +1,83 @@
+*{
+    /* padding: 0; */
+    margin: 20px ;
+}
+
+nav img{
+    height: 100px ;
+    width: 100px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 100px ;
+    /* background-color: aqua; */
+    align-items: center;
+}
+nav ul a{
+    text-decoration: none;
+   margin: 20px;
+    color: gray;
+    font-size: 19px;
+    position: relative;
+}
+nav ul a::after{
+    content: "";
+    position: absolute;
+    bottom: -5px ;
+    height: 2px ;
+    width: 0;
+    background-color: red;
+    left: 0;
+    transition: 0.8s ease;
+}
+nav ul a:hover::after{
+    width: 100%;
+}
+
+nav i{
+    margin: 5px;
+    font-size: 25px;
+    color: gray;
+}
+nav i:hover{
+    color: rgb(30, 159, 210);
+}
+
+/* ==================FOOTER================= */
+
+.foter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: rgb(236, 236, 44);
+    position: absolute;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+}
+.Home img{
+    height: 130vh;
+    width: 100%;
+    /* padding: 20px; */
+    left: 0;
+    border-radius: 30px;
+}
+
+/* =========================== */
+
+.box{
+    /* border: 2px solid black; */
+    width: fit-content;
+    text-align: center;
+    margin-bottom: 90px;
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 20px;
+    padding: 20px;
+}
+.box img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
