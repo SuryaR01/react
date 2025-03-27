@@ -1,0 +1,79 @@
+
+
+
+
+
+    [
+        {"img1":"/logo.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/home.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/logo.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/home.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/logo.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/home.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/logo.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/home.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"},
+
+        {"img1":"/logo.png",
+        "product_Name":"Iphone",
+        "Price":"$50,000",
+        "Model":"S11",
+        "Storage":"520GB",
+        "Battery":"4500MAH",
+        "Camera":"Sony IMX"}
+       
+    ]
